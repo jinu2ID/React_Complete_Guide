@@ -3,6 +3,10 @@
 # dependencies
 node_modules/
 
+#local stuff
+react-complete-guide/backup/
+react-complete-guide/how-to-use.txt
+
 # testing
 coverage/
 
